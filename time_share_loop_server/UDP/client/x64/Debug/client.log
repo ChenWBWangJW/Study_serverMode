@@ -1,0 +1,7 @@
+﻿  sbuf.cpp
+D:\PL\CPP\time_share_loop_server\client\sbuf.cpp(49,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\PL\CPP\time_share_loop_server\client\sbuf.cpp(49,10): message : 此参数用作缓冲区大小
+D:\PL\CPP\time_share_loop_server\client\sbuf.cpp(18,20): warning C4101: “type”: 未引用的局部变量
+D:\PL\CPP\time_share_loop_server\client\sbuf.cpp(14,18): warning C4101: “pse”: 未引用的局部变量
+D:\PL\CPP\time_share_loop_server\client\sbuf.cpp(13,18): warning C4101: “phe”: 未引用的局部变量
+  client.vcxproj -> D:\PL\CPP\time_share_loop_server\client\x64\Debug\client.exe

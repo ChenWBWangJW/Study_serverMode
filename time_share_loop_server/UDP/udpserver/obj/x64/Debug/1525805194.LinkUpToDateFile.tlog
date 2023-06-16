@@ -1,0 +1,1 @@
+g++ -o "/home/chen/projects/udpserver/bin/x64/Debug/udpserver.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chen/projects/udpserver/obj/x64/Debug/main.o

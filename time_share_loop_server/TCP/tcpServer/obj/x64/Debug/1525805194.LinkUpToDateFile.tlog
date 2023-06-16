@@ -1,0 +1,1 @@
+g++ -o "/home/chen/projects/tcpServer/bin/x64/Debug/tcpServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chen/projects/tcpServer/obj/x64/Debug/main.o

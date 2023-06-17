@@ -1,0 +1,1 @@
+g++ -o "/home/chen/projects/tcpThreadServer/bin/x64/Debug/tcpThreadServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chen/projects/tcpThreadServer/obj/x64/Debug/main.o -lpthread

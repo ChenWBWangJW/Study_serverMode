@@ -1,0 +1,1 @@
+g++ -o "/home/chen/projects/tcpForkServer/bin/x64/Debug/tcpForkServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chen/projects/tcpForkServer/obj/x64/Debug/main.o

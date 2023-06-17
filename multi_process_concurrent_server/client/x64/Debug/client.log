@@ -1,0 +1,9 @@
+﻿  client.cpp
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(59,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(59,10): message : 此参数用作缓冲区大小
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(35,6): warning C4101: “type”: 未引用的局部变量
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(31,18): warning C4101: “serv”: 未引用的局部变量
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(25,7): warning C4101: “buff”: 未引用的局部变量
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(32,20): warning C4101: “protocol”: 未引用的局部变量
+D:\PL\CPP\multi_process_concurrent_server\client\client.cpp(30,18): warning C4101: “host”: 未引用的局部变量
+  client.vcxproj -> D:\PL\CPP\multi_process_concurrent_server\client\x64\Debug\client.exe

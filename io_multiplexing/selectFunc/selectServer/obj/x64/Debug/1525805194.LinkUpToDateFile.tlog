@@ -1,0 +1,1 @@
+g++ -o "/home/chen/projects/selectServer/bin/x64/Debug/selectServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chen/projects/selectServer/obj/x64/Debug/main.o

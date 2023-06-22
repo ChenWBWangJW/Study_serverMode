@@ -1,0 +1,2 @@
+D:\PL\CPP\io_multiplexing\client\x64\Debug\client.exe
+D:\PL\CPP\io_multiplexing\selectFunc\client\x64\Debug\client.exe

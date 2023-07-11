@@ -1,0 +1,4 @@
+﻿  client.cpp
+D:\PL\CPP\io_multiplexing\epollFunc\client\client.cpp(4,35): warning C4081: 应输入“newline”；找到“;”
+D:\PL\CPP\io_multiplexing\epollFunc\client\client.cpp(62,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> D:\PL\CPP\io_multiplexing\epollFunc\client\x64\Debug\client.exe
